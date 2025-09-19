@@ -1,0 +1,6 @@
+Name: Hana Park
+Age: 31
+Gender: Female
+Hair: Long dark hair
+Occupation: Event planner
+Notes: Wears small silver hoop earrings, tattoo of a star on left wrist.

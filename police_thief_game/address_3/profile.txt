@@ -1,0 +1,6 @@
+Name: Fatima Ramirez
+Age: 27
+Gender: Female
+Hair: Long black
+Occupation: Graphic designer
+Notes: Wears glasses, loves painting, has only snake tatoo on her left shoulder.

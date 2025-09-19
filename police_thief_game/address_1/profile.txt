@@ -1,0 +1,6 @@
+Name: Susan Miller
+Age: 45
+Gender: Female
+Hair: Shoulder-length brown
+Occupation: Banker
+Notes: Married, two children, no tattoos, no earrings.
